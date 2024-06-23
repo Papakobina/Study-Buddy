@@ -1,8 +1,11 @@
 # Study-Buddy
-# NLP Article Summarizer and Flowchart Generator
+# NLP Notes Summarizer and Flowchart Generator
 
 ## Overview
-This project integrates advanced Natural Language Processing (NLP) techniques to summarize articles, generate interactive flowcharts, and provide a question-answering interface based on the summarized text. The goal is to enhance the readability and usability of lengthy articles by providing concise summaries, visual representations, and interactive Q&A capabilities.
+This project integrates advanced Natural Language Processing (NLP) techniques to summarize Notes, generates interactive flowcharts, and provide a question-answering interface based on the summarized text. The goal is to enhance the readability and usability of lengthy articles by providing concise summaries, visual representations, and interactive Q&A capabilities.
+
+<img src='https://github.com/Papakobina/Study-Buddy/blob/main/Screenshot%202024-06-23%20021217.png'/>
+<img src='https://github.com/Papakobina/Study-Buddy/blob/main/Screenshot%202024-06-23%20023204.png'/>
 
 ## Features
 - **Article Summarization:** Automatically generate concise summaries of long articles using a fine-tuned BART model.
